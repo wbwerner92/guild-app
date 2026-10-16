@@ -1,7 +1,7 @@
 {
   "app": "guild-encrypted-app",
-  "version": "3f73cddb9328151a",
-  "label": "Guild 1",
+  "version": "b68cdeece25d240c",
+  "label": "Guild 1.1",
   "readSaveVersions": [
     1,
     2
@@ -9,7 +9,7 @@
   "assets": [
     {
       "path": "index.html",
-      "sha256": "85f5ee1539889a961d0ef3ba0ccecbcb7a7d8f1b1046341746066945fcf2c914"
+      "sha256": "dcc9facf18e398add89dda3fdf00e41c6eff3bcd8e9ce02e58bc378e083af36e"
     },
     {
       "path": "loader.css",
@@ -17,11 +17,11 @@
     },
     {
       "path": "loader.js",
-      "sha256": "d3accaba3ae133dfa6d9354e270b8a287b69cfa352ac3ae1ac87c6a47d98515d"
+      "sha256": "6c6846f86d0f43640a7be03938789780c0c98d4175a548a95a78f17d910d97fc"
     },
     {
       "path": "crypto.js",
-      "sha256": "c518ba59ecfb2f1c768622f0fde4d1a0995db22cb91bdc94a9896bb20d08978c"
+      "sha256": "11b91d5b7719f17e7d532c635d199a8a02367d19cfd8b11eb3da031ad5a57fdd"
     },
     {
       "path": "manifest.webmanifest",
@@ -29,7 +29,7 @@
     },
     {
       "path": "package.enc.json",
-      "sha256": "24d2f661c418d64d88b04fff45f2258e4d848c844adeb6b4358380c027e33623"
+      "sha256": "fba531371e286eca889a63ef114b03f7cc63a4cec71a0055c3e6f8590487b1be"
     },
     {
       "path": "public-key.json",
