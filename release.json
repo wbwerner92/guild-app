@@ -1,7 +1,7 @@
 {
   "app": "guild-encrypted-app",
-  "version": "9e6d3697122acd12",
-  "label": "Guild 1.18",
+  "version": "bcaec182d421c01d",
+  "label": "Guild 1.19",
   "readSaveVersions": [
     1,
     2,
@@ -10,7 +10,7 @@
   "assets": [
     {
       "path": "index.html",
-      "sha256": "28f70557aa6843ed6006e702e1658342921462ecbca21a151a3396f5469f6729"
+      "sha256": "c53e18050af39c4d3bd3b5003b1e90087ebf2fc67ad2c48824c80b5824cda7cb"
     },
     {
       "path": "loader.css",
@@ -30,7 +30,7 @@
     },
     {
       "path": "package.enc.json",
-      "sha256": "88fe5fd8df7f512fe677e623d1a95801f42dcb6b13ca1bc9dff9f74c8525e724"
+      "sha256": "37336d1a7f57403feb71744b1d286ab94882ac52691d9a0f0e2870bab79bec2c"
     },
     {
       "path": "public-key.json",
